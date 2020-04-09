@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ball Throwing App</string>
+    <string name="throw_ball">Throw Ball</string>
 </resources>
